@@ -1,6 +1,10 @@
-# 💫 About Me:
-Hello World! 👋<br>I'm Rajwaa, an Informatics student passionate about coding and exploring new technologies.<br><br>🧑‍🎓 Education:<br>Undergraduate Informatics student at Diponegoro University<br><br>👯 Collaboration:<br>I'm looking to collaborate on AI/ML projects, Automation comp/bot, or any innovative ideas that can make an impact.<br><br>🤝 Seeking Help With:<br>I'm open to learning and growing—whether it's about advanced Python techniques, AI algorithms, or collaborative development workflows.<br><br>🌱 Currently Learning:<br>I'm diving deeper into Python, C, and Machine Learning while exploring game prototyping and linear system modeling.<br><br>💬 Ask Me About:<br>Programming, numerical methods, database design, and how I manage to juggle tech, teamwork, and creativity!<br><br>⚡ Fun Fact:<br>The first program I wrote was "Hello, World!"—but now I'm exploring worlds in AI, games, and more. 🚀<br><br>Feel free to connect or share your ideas with me. Let's create something amazing together!
-
+## Hello World!I'm Rajwaa, an Informatics student👋:
+🧑‍🎓 I'm Undergraduate Informatics student at Diponegoro University
+<br>👯 I'm looking to collaborate on AI/ML projects, Automation comp/bot, or any innovative ideas that can make an impact.
+<br>🌱 I'm diving deeper into Python, C, and Machine Learning while exploring game prototyping and linear system modeling.
+<br>💬 Ask Me About: Programming, numerical methods, database design, and how I manage to juggle tech, teamwork, and creativity!
+<br>⚡ Fun Fact:The first program I wrote was "Hello, World!"—but now I'm exploring worlds in AI, games, and more. 🚀
+<br>Feel free to connect or share your ideas with me. Let's create something amazing together!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1193232021581996203) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mufrajwaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajwaama17) 
