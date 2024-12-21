@@ -3,7 +3,7 @@
 <br>👯 I'm looking to collaborate on AI/ML projects, Automation comp/bot, or any innovative ideas that can make an impact.
 <br>🌱 I'm diving deeper into Python, C, and Machine Learning while exploring game prototyping and linear system modeling.
 <br>💬 Ask Me About: Programming, numerical methods, database design, and how I manage to juggle tech, teamwork, and creativity!
-<br>⚡ Fun Fact:The first program I wrote was "Hello, World!"—but now I'm exploring worlds in AI, games, and more. 🚀
+<br>⚡ Fun Fact: The first program I wrote was "Hello, World!"—but now I'm exploring worlds in AI, games, and more. 🚀
 <br>Feel free to connect or share your ideas with me. Let's create something amazing together!
 
 ## 🌐 Socials:
