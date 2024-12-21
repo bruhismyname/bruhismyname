@@ -1,5 +1,5 @@
 ## Hello World!I'm Rajwaa, an Informatics student👋:
-🧑‍🎓 I'm Undergraduate Informatics student at Diponegoro University
+🧑‍🎓 I'm Undergraduate Informatics student at Diponegoro University.
 <br>👯 I'm looking to collaborate on AI/ML projects, Automation comp/bot, or any innovative ideas that can make an impact.
 <br>🌱 I'm diving deeper into Python, C, and Machine Learning while exploring game prototyping and linear system modeling.
 <br>💬 Ask Me About: Programming, numerical methods, database design, and how I manage to juggle tech, teamwork, and creativity!
