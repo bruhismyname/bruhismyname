@@ -74,3 +74,7 @@
 <img src="https://raw.githubusercontent.com/bruhismyname/bruhismyname/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center"> "durior adversarius magis excitando ludum fit" </p>
+
+###
